@@ -30,3 +30,7 @@ li {
 .item-title  {
   text-transform: capitalize;
 }
+
+md-list-item {
+  cursor: pointer;
+}

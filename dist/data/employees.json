@@ -1,0 +1,170 @@
+[
+    {
+        "id": "1",
+        "user": {
+            "id": "arma",
+            "name": "Doğa Armangil"
+        },
+        "supervisor_id": null
+    },
+    {
+        "id": "2",
+        "user": {
+            "id": "aiko",
+            "name": "Aiko Tanaka"
+        },
+        "supervisor_id": null
+    },
+    {
+        "id": "3",
+        "user": {
+            "id": "bashir",
+            "name": "Bashir Ahmed"
+        },
+        "supervisor_id": "1"
+    },
+    {
+        "id": "4",
+        "user": {
+            "id": "carlos",
+            "name": "Carlos Hernandez"
+        },
+        "supervisor_id": "1"
+    },
+    {
+        "id": "5",
+        "user": {
+            "id": "daria",
+            "name": "Daria Petrova"
+        },
+        "supervisor_id": "1"
+    },
+    {
+        "id": "6",
+        "user": {
+            "id": "erik",
+            "name": "Erik Johansson"
+        },
+        "supervisor_id": "1"
+    },
+    {
+        "id": "7",
+        "user": {
+            "id": "fatima",
+            "name": "Fatima Diallo"
+        },
+        "supervisor_id": "1"
+    },
+    {
+        "id": "8",
+        "user": {
+            "id": "giorgos",
+            "name": "Giorgos Papadopoulos"
+        },
+        "supervisor_id": "1"
+    },
+    {
+        "id": "9",
+        "user": {
+            "id": "han",
+            "name": "Han Sung-hee"
+        },
+        "supervisor_id": "1"
+    },
+    {
+        "id": "10",
+        "user": {
+            "id": "iris",
+            "name": "Íris Kristjánsdóttir"
+        },
+        "supervisor_id": "1"
+    },
+    {
+        "id": "11",
+        "user": {
+            "id": "jai",
+            "name": "Jai Singh"
+        },
+        "supervisor_id": "2"
+    },
+    {
+        "id": "12",
+        "user": {
+            "id": "kaia",
+            "name": "Kaia Nielsen"
+        },
+        "supervisor_id": "2"
+    },
+    {
+        "id": "13",
+        "user": {
+            "id": "leandro",
+            "name": "Leandro Silva"
+        },
+        "supervisor_id": "2"
+    },
+    {
+        "id": "14",
+        "user": {
+            "id": "maria",
+            "name": "Maria González"
+        },
+        "supervisor_id": "2"
+    },
+    {
+        "id": "15",
+        "user": {
+            "id": "nguyen",
+            "name": "Nguyen Thi Linh"
+        },
+        "supervisor_id": "2"
+    },
+    {
+        "id": "16",
+        "user": {
+            "id": "oskar",
+            "name": "Oskar Müller"
+        },
+        "supervisor_id": "2"
+    },
+    {
+        "id": "17",
+        "user": {
+            "id": "petra",
+            "name": "Petra Novak"
+        },
+        "supervisor_id": "2"
+    },
+    {
+        "id": "18",
+        "user": {
+            "id": "quentin",
+            "name": "Quentin Dubois"
+        },
+        "supervisor_id": "2"
+    },
+    {
+        "id": "19",
+        "user": {
+            "id": "runa",
+            "name": "Runa Khan"
+        },
+        "supervisor_id": "2"
+    },
+    {
+        "id": "20",
+        "user": {
+            "id": "soren",
+            "name": "Søren Andersen"
+        },
+        "supervisor_id": "2"
+    },
+    {
+        "id": "21",
+        "user": {
+            "id": "tatiana",
+            "name": "Tatiana Romanova"
+        },
+        "supervisor_id": "2"
+    }
+]

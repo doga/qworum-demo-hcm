@@ -1,6 +1,6 @@
 {
-  "name"      : "Qworum application template",
-  "short_name": "Qworum app",
+  "name"      : "HCM application demo",
+  "short_name": "HCM",
   "start_url" : "/",
   "display"   : "standalone"
 }
